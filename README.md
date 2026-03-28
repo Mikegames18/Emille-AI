@@ -168,3 +168,4 @@ document.getElementById("upload").addEventListener("change", function(e) {
 
 function invertir() {
   let imgData = ctx.getImageData(
+./run.cmd
